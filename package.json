@@ -1,0 +1,20 @@
+{
+  "name": "yingding-website",
+  "version": "1.0.0",
+  "description": "东莞市瑛鼎塑胶制品有限公司官方网站",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^5.0.0"
+  }
+}
